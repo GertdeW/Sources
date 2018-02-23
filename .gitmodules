@@ -2,3 +2,8 @@
 	path = OCA/l10n-netherlands
 	url = git@github.com:OCA/l10n-netherlands.git
 	branch = 11.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 11.0
